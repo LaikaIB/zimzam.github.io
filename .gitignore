@@ -1,2 +1,4 @@
-/files
-/img
+*.jpg
+*.png
+files
+img
